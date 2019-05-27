@@ -1,0 +1,8 @@
+900;Antivirus scan;100
+800;Publish;700, 601, 608, 603
+700;Report Statistics;100
+601;Transcode 1;200
+608;Transcode 2;200
+603;Transcode 3;200
+200;Rename File;900
+100;Upload; 
